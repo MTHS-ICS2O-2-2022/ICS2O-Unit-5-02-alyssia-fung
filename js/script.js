@@ -36,4 +36,3 @@ function myButtonClicked() {
       "Value is: " + randomNumber
   }
 }
-
